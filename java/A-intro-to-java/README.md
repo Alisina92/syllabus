@@ -10,6 +10,7 @@ How to compile and run a java app in Eclipse:
 7. Name the file “HelloWorld.java”
 8. Click *Finish*
 9. Paste this into the file: 
+```
     public class HelloWorld
     {
       public static void main(String[] args)
@@ -17,6 +18,7 @@ How to compile and run a java app in Eclipse:
         System.out.println("Hello, World!");
       }
     }
+```
 10. Click the *Run* button at the top
 11. The console should display “Hello, World!”
 
