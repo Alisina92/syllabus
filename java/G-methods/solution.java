@@ -5,7 +5,7 @@ public class TestClass
     sayHello();
   }
   
-  public void sayHello() {
+  public static void sayHello() {
     System.out.println("Hello!");
   }
   
@@ -18,7 +18,7 @@ public class TestClass
     System.out.println(getPhrase());
   }
   
-  public String getPhrase() {
+  public static String getPhrase() {
     String phrase = "Hello!";
     
     return phrase;
@@ -34,7 +34,7 @@ public class TestClass
     sayPhrase(phrase);
   }
   
-  public void sayPhrase(String phrase) {
+  public static void sayPhrase(String phrase) {
     System.out.println(phrase);
   }
   
