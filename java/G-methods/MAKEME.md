@@ -10,7 +10,7 @@ public class TestClass
     // call the method here 
   }
   
-  public void sayHello() {
+  public static void sayHello() {
     System.out.println("Hello!");
   }
   
@@ -27,7 +27,7 @@ public class TestClass
     System.out.println();
   }
   
-  public void getPhrase() {
+  public static void getPhrase() {
     String phrase = "Hello!";
     
     return;
@@ -47,7 +47,7 @@ public class TestClass
     // call helper method & pass in String variable
   }
   
-  public void sayPhrase(// add String parameter) {
+  public static void sayPhrase(// add String parameter) {
     System.out.println(phrase);
   }
   
