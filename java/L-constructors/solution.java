@@ -47,7 +47,7 @@ public class Animal {
     // so even though there are multiple variables called "name" within the scope of this method,
     // the parameter "name" has a more direct, smaller scope
     
-    public Animal(String name, int numberOfLegs, String sound, String color, boolean isPreditor) {
+    Animal(String name, int numberOfLegs, String sound, String color, boolean isPreditor) {
         this.name = name;
         this.numberOfLegs = numberOfLegs;
         this.sound = sound;
