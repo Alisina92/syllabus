@@ -29,3 +29,5 @@ public class Main {
     }
 }
 ```
+
+### 3. Define another constructor that takes all of the Animal's fields as parameters and sets them equal to the parameters values
