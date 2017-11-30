@@ -12,3 +12,8 @@
   * Print the following values to the screen in your main method: color, topSpeed, price, and model
   * Notice that the SportsCar class inherits the public methods from the Car class
   * Notice if you try and call the `isValidYear()` method, it does not show up, because it was declared as a private method of the Car class
+
+
+
+# Really good site for practicing/learning Java. All the challenges are good, but if you are looking for somewhere to start, try the _Inheritance 1_ challenge in the Object Oriented Programming category.
+https://www.hackerrank.com/domains/java/oop
