@@ -14,7 +14,6 @@ Integer int1 = new Integer(i);
 And to get a primitive from a wrapped variable:
 ```
 int x = int1.intValue();
-
 ```
 You can also use wrapper classes to get a value from a String using the _parseInt()_ method:
 ```
