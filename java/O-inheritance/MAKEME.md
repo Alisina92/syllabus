@@ -15,5 +15,5 @@
 
 
 
-# Really good site for practicing/learning Java. All the challenges are good, but if you are looking for somewhere to start, try the _Inheritance 1_ challenge in the Object Oriented Programming category.
+# Really good site for practicing/learning Java. All the challenges are good, but if you are looking for somewhere to start, try the _Java Inheritance 1_ challenge in the Object Oriented Programming category.
 https://www.hackerrank.com/domains/java/oop
