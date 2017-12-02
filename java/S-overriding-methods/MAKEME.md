@@ -67,5 +67,6 @@ public class Car {
 	}
 }
 ```
-### 1. Create a class _SportsCar_ that overrides the _makeNoise_ method and prints out something more suitable for a fast car
+### 1. Create a class _SportsCar_ that overrides the _makeSound_ method and prints out something more suitable for a fast car
 
+### 2. Create an instance of a Car and a SportsCar in your _main_ method. Call the _makeSound_ method on each object and compare the differences. What happens if you create a 3rd object using `Car car3 = new SportsCar()` and call the _makeSound_ method?
