@@ -14,6 +14,6 @@
   * Notice if you try and call the `isValidYear()` method, it does not show up, because it was declared as a private method of the Car class
 
 
-
-# Really good site for practicing/learning Java. All the challenges are good, but if you are looking for somewhere to start, try the _Java Inheritance 1_ challenge in the Object Oriented Programming category.
+### 3. Look into some of these challenges:
+This is a really good site for practicing/learning Java. All the challenges are good, but if you are looking for somewhere to start, try the _Java Inheritance 1_ challenge in the Object Oriented Programming category.
 https://www.hackerrank.com/domains/java/oop
