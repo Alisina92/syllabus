@@ -50,7 +50,7 @@ Sales Taxes: 6.70 \
 Total: 74.68
 
 ---
-This is a real coding problem I received for a job interview as a Java Developer.
+This is a real coding problem I received for a job interview as a Java Developer.  
 It was open-book, so Google is your friend here :)
 
 Some things that may be helpful to you while completeing this project:
