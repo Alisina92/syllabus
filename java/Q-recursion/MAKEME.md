@@ -1,7 +1,7 @@
 # Homework
 
 ### 1. Create a method _factorial_ that accepts an integer as a parameter. This method will return 1 if the parameter equals 1. If the parameter is larger than one, it will call itself (factorial()) and pass in the current parameter multiplied by the current parameter minus one.  
-Test is by calling 10! (_factorial(10);_)  
+Test this by calling 10! (_factorial(10);_)  
 The output should be:
 `3628800`
 
