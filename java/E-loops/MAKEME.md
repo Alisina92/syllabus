@@ -23,6 +23,11 @@ public class TestClass
   }
 }
 ```
+## 3.
+Use an enhanced for loop (ForEach loop) to iterate through this array and display each element
+```
+int[] intArray = {1,2,3,4,5,6,7,8,9,10};
+```
 
 ## 3.
 Use a nested for loop to print out a multiplication table (10x10)  
