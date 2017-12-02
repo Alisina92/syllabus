@@ -29,3 +29,19 @@ public class TestClass
     }
 }
 ```
+
+## 3. Complete this program by using a nested for loop to display each element in the array of arrays
+```
+public class TestClass
+{
+    public static void main(String[] args) {
+              
+      int[][] myArray = {
+            {1,2,3},
+            {4,5,6},
+            {7,8,9},
+            {10}
+      };
+      
+    }
+}
