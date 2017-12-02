@@ -1,6 +1,6 @@
 # Homework
 
-### 1. Create a class name _Tree_ with 3 variables:
+### 1. Create a class name _Tree_ with 3 variables (remember naming conventions):
 * tree height
 * average tree height
 * number of branches
