@@ -1,3 +1,4 @@
+1.
 public class TestClass {
     public static void main(String[] args)
     {
@@ -9,6 +10,7 @@ public class TestClass {
     }
 }
 
+2.
 public class TestClass {
     public static void main(String[] args)
     {
@@ -22,4 +24,18 @@ public class TestClass {
     }
 }
 
-
+3.
+public class TestClass {
+    public static void main(String[] args)
+    {
+        
+       for (int i = 1; i <= 10; i++) {
+            System.out.print(i + " ");
+            for (int j = 1; j <= 10; j++) {
+                System.out.print(i * j + " ");
+            }
+            System.out.println();
+       }
+        
+    }
+}
