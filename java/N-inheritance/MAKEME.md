@@ -1,7 +1,7 @@
 # Homework
 
 ### 1. Include the Car class (from the previous section) and create a new class named SportsCar that inherits from the Car class. 
-  (if you didn't do the last section, just go to the last section and grab the Car class from the solution.java)
+  (if you didn't do the last section, just go to the access-modifiers section and grab the Car class from the solution.java)
   * Make sure you are inheriting from the Car class by using the `extends` keyword in the class signature
   * Within the SportsCar class, create 3 private variables named "topSpeed", "price", and "hasRacingStripes"
   * Include a constructor in this class that takes arguments for both the Car and SportsCar classes
