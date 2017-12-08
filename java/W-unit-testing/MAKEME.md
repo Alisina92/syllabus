@@ -16,7 +16,7 @@ public class TestJunit {
 
 }
 ```
-### To run this test case, right click "TestJunit.java" in the Package Explorer and select _Run As_->_Junit Test_. If you do not see "Junit Test" under "Run As", select _Run As_->_Run Configurations. Double clikc "JUnit" on the left, and type "TestJunit" under the "Test Class" field, then hit "Run".
+### To run this test case, right click "TestJunit.java" in the Package Explorer and select _Run As_->_Junit Test_. If you do not see "Junit Test" under "Run As", select _Run As_->_Run Configurations_. Double click "JUnit" on the left, and type "TestJunit" under the "Test Class" field, then hit "Run".
 #### After running the test, you should see a green bar appear in the JUnit tab. This shows you that the test completed successfully.
 
 ### 2. 
