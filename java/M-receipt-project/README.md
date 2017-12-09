@@ -1,4 +1,8 @@
 # Coding Problem: Sales Taxes
+---
+#### This is a real coding problem I received for a job interview as a Java Developer.
+
+---
 
 Please include all source files, unit tests, readme, batch files, etc. with your solution and e-mail to the person conducting your
 technical interview and cc: your recruiter.
@@ -50,8 +54,7 @@ Sales Taxes: 6.70
 Total: 74.68
 
 ---
-This is a real coding problem I received for a job interview as a Java Developer.  
-It was open-book, so Google is your friend here :)
+This is open-book, so Google is your friend here :)
 
 Some things that may be helpful to you while completeing this project:
 - Using System.in to receive input from the user: https://stackoverflow.com/questions/5488072/reading-in-from-system-in-java
